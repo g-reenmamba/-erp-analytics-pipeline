@@ -1,0 +1,24 @@
+# ERP Sales Analytics Pipeline
+
+A Python data analytics project built on AdventureWorks ERP data.
+
+## What it does
+- Cleans and processes 31,000+ sales records
+- Analyses revenue trends across 3 years (2011–2014)
+- Identifies top customers by revenue
+- Generates charts and a summary business report
+
+## Tech Stack
+- Python 3
+- pandas
+- matplotlib
+
+## Project Structure
+ERP suite/
+├── data/                  # Raw and cleaned CSVs, output charts
+├── src/
+│   ├── clean_data.py      # Stage 2: Data cleaning
+│   ├── analysis.py        # Stage 3: Business analysis
+│   ├── visualise.py       # Stage 4: Charts
+│   └── report.py          # Stage 5: Summary report
+└── README.md

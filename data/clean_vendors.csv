@@ -1,0 +1,8 @@
+BusinessEntityID,AccountNumber,VendorName,AddressType,AddressLine1,AddressLine2,City,PostalCode,StateProvince,Territory,Country
+1526,INTERNAT0002,International Bicycles,Main Office,20 Rambling Rose Ave.,# 103,West Covina,91791,California,Southwest,United States
+1530,COMFORT0001,Comfort Road Bicycles,Main Office,7651 Smiling Tree Court,Space 55,Los Angeles,90012,California,Southwest,United States
+1534,READYRE0001,Ready Rentals,Main Office,35 Buckthorn Court,# 1,Kirkland,98033,Washington,Northwest,United States
+1554,WESTAMER0001,WestAmerica Bicycle Co.,Main Office,8040 Erie Dr,6 Monteira,Houston,77003,Texas,Southwest,United States
+1568,CUSTOMF0001,"Custom Frames, Inc.",Main Office,419 River Ash Court,#9,Lakewood,63301,Missouri,Central,United States
+1620,LAKEWOOD0001,Lakewood Bicycle,Main Office,6030 Winter Drive,# 4d,Imperial Beach,91932,California,Southwest,United States
+1622,SPEEDCO0001,Speed Corporation,Main Office,2834 Clifford Court,#9,Anacortes,98221,Washington,Northwest,United States
